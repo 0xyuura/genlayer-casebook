@@ -3,7 +3,8 @@
 **Like cases decided alike, by construction.**
 
 Deployed on GenLayer Studio (studionet) at
-`0x5956aE80ff7e06974a0B4Aa5a2cBA151B0c98FD5`, with two consumer contracts.
+[`0x5956aE80ff7e06974a0B4Aa5a2cBA151B0c98FD5`](https://explorer-studio.genlayer.com/address/0x5956aE80ff7e06974a0B4Aa5a2cBA151B0c98FD5),
+with two consumer contracts.
 See [Exercised on chain](#exercised-on-chain).
 
 Call it without a local setup:
@@ -85,9 +86,9 @@ deployments are byte identical to the files here (`tools/verify.mjs`):
 
 | Contract | Address |
 | --- | --- |
-| `Casebook` | `0x5956aE80ff7e06974a0B4Aa5a2cBA151B0c98FD5` ([Studio](https://studio.genlayer.com/?import-contract=0x5956aE80ff7e06974a0B4Aa5a2cBA151B0c98FD5)) |
-| `Refunds` (docket `d1`) | `0x9F633630E9ED7334afe0091BE174372799E327Ce` |
-| `Strikes` (docket `d2`) | `0x478FA197F11DEf2e7222d8E7537D613319021432` |
+| `Casebook` | [`0x5956aE80ff7e06974a0B4Aa5a2cBA151B0c98FD5`](https://explorer-studio.genlayer.com/address/0x5956aE80ff7e06974a0B4Aa5a2cBA151B0c98FD5) ([Studio](https://studio.genlayer.com/?import-contract=0x5956aE80ff7e06974a0B4Aa5a2cBA151B0c98FD5)) |
+| `Refunds` (docket `d1`) | [`0x9F633630E9ED7334afe0091BE174372799E327Ce`](https://explorer-studio.genlayer.com/address/0x9F633630E9ED7334afe0091BE174372799E327Ce) |
+| `Strikes` (docket `d2`) | [`0x478FA197F11DEf2e7222d8E7537D613319021432`](https://explorer-studio.genlayer.com/address/0x478FA197F11DEf2e7222d8E7537D613319021432) |
 
 **Docket `d1`, a shop's refund rule:** "Damaged goods always get a full refund.
 An order more than 3 days late gets a full refund if the shop did not warn the
